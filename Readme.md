@@ -1,7 +1,7 @@
 # 👻 Ghost in the Vault
 
 **Category:** Reverse Engineering  
-**Difficulty:** Easy 
+**Difficulty:** Easy  
 **Flag Format:** `47CON{...}`  
 
 ## Description
